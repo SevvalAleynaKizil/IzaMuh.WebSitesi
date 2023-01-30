@@ -1,0 +1,19 @@
+﻿<div class="container">
+
+    <a href="/Admin/Hakkinda" class="btn btn-primary" style="margin-bottom:10px;">Geri</a>
+
+    <form action="/Admin/Hakkinda/Update/@Model.Id" enctype="multipart/form-data" method="post">
+        
+        <textarea name="Details" class="form-control" style="margin-bottom:10px;">@Model.Details</textarea>
+        <button type="submit" class="form-control btn btn-primary">Güncelle</button>
+    </form>
+
+</div>
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success" style="margin-top:15px;">@ViewBag.Message</div>
+}
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger" style="margin-top:15px;">@ViewBag.Error</div>
+}

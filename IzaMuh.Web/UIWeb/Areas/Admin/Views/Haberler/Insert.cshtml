@@ -1,0 +1,19 @@
+﻿@model DataAccess.Models.News
+
+<div class="container">
+    <form action="/Admin/Haberler/Insert" method="post" enctype="multipart/form-data">
+    <input type="text" class="form-control" style="margin-bottom:10px;" placeholder="Haber Adı" asp-for="Newsname"/>
+        <textarea type="text" class="form-control" style="margin-bottom:10px;height:150px" placeholder="Haber Detayı" asp-for="Newsdetail"></textarea>
+        <button type="submit" class="form-control btn btn-primary">Ekleme Yap</button>
+    </form>
+</div>
+
+@if (ViewBag.Message != null)
+{
+        <div class="alert alert-success" style="margin-top:15px">@ViewBag.Message</div>
+
+}
+@if (ViewBag.Error != null)
+{
+        <div class="alert alert-danger" style="margin-top:15px">@ViewBag.Error</div>
+}

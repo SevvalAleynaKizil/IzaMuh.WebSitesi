@@ -1,0 +1,757 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\about.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\alt-services-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\alt-services-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\alt-services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\alt-services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\breadcrumbs-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumbs-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\constructions-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\constructions-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\constructions-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\constructions-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\constructions-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\constructions-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\constructions-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\constructions-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\features-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\features-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\features-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\features-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\construction-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\construction-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\construction-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\construction-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\construction-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\construction-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\design-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\design-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\design-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\design-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\design-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\design-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\remodeling-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\remodeling-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\remodeling-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\remodeling-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\remodeling-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\remodeling-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\repairs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\repairs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\repairs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\repairs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\projects\\repairs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects\\repairs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\team\\team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\team\\team-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap-icons\\index.html",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\0192482c-d0b9-45eb-8d1b-927116cf2085.jpeg",
+      "PackagePath": "staticwebassets\\images\\0192482c-d0b9-45eb-8d1b-927116cf2085.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\028c3a8b-4dca-4d1c-87a3-db0f874eee1e.jpeg",
+      "PackagePath": "staticwebassets\\images\\028c3a8b-4dca-4d1c-87a3-db0f874eee1e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\0df414f9-3f84-4200-903b-6b80b715eb59.jpg",
+      "PackagePath": "staticwebassets\\images\\0df414f9-3f84-4200-903b-6b80b715eb59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\10687224-31ef-4936-905f-62b32dca7986.jpg",
+      "PackagePath": "staticwebassets\\images\\10687224-31ef-4936-905f-62b32dca7986.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\134685f7-c1fb-4a30-9162-6a06e53bc985.jpeg",
+      "PackagePath": "staticwebassets\\images\\134685f7-c1fb-4a30-9162-6a06e53bc985.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\1c8dbe5b-fb67-40a0-8746-1d7e20d79b39.jpg",
+      "PackagePath": "staticwebassets\\images\\1c8dbe5b-fb67-40a0-8746-1d7e20d79b39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\29bbf007-0aa8-4fae-9f5b-c4ba267df391.jpeg",
+      "PackagePath": "staticwebassets\\images\\29bbf007-0aa8-4fae-9f5b-c4ba267df391.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\2c3623b2-1706-4044-bbc1-5e989292c8b4.jpeg",
+      "PackagePath": "staticwebassets\\images\\2c3623b2-1706-4044-bbc1-5e989292c8b4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\3f493610-6b2d-4b5c-9712-45b6553b43df.jpg",
+      "PackagePath": "staticwebassets\\images\\3f493610-6b2d-4b5c-9712-45b6553b43df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\403496a5-993e-43a6-a267-80cbffb4c3c7.jpeg",
+      "PackagePath": "staticwebassets\\images\\403496a5-993e-43a6-a267-80cbffb4c3c7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\43ebd3d6-9f6c-4bb7-bcc1-e74f625a1015.jpg",
+      "PackagePath": "staticwebassets\\images\\43ebd3d6-9f6c-4bb7-bcc1-e74f625a1015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\496dcf1f-7110-44f4-bc5f-1b2bcbbbcce8.jpg",
+      "PackagePath": "staticwebassets\\images\\496dcf1f-7110-44f4-bc5f-1b2bcbbbcce8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\62ff135a-29dd-437d-a802-004d5ef7681f.jpg",
+      "PackagePath": "staticwebassets\\images\\62ff135a-29dd-437d-a802-004d5ef7681f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\7cbed785-49d8-4d6c-a683-aceb68f64d2e.jpeg",
+      "PackagePath": "staticwebassets\\images\\7cbed785-49d8-4d6c-a683-aceb68f64d2e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\9d204aec-0869-4108-b503-6379badd1ac1.jpeg",
+      "PackagePath": "staticwebassets\\images\\9d204aec-0869-4108-b503-6379badd1ac1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\a050ee7c-330b-471c-a05c-58371d5b2f77.jpg",
+      "PackagePath": "staticwebassets\\images\\a050ee7c-330b-471c-a05c-58371d5b2f77.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\a5f21736-75ea-4473-8ed7-93631c4d8e5b.jpeg",
+      "PackagePath": "staticwebassets\\images\\a5f21736-75ea-4473-8ed7-93631c4d8e5b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\a92324e1-28be-4fad-bfa6-711b23ed26dc.jpeg",
+      "PackagePath": "staticwebassets\\images\\a92324e1-28be-4fad-bfa6-711b23ed26dc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\acb7e072-77d7-4401-8627-1f84a90f57c2.jpg",
+      "PackagePath": "staticwebassets\\images\\acb7e072-77d7-4401-8627-1f84a90f57c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\ad5ffd5c-6d86-4245-8d7b-8da86b08373e.jpeg",
+      "PackagePath": "staticwebassets\\images\\ad5ffd5c-6d86-4245-8d7b-8da86b08373e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\adfe9f48-6dc1-407a-b020-b9a6ff20f6f3.jpeg",
+      "PackagePath": "staticwebassets\\images\\adfe9f48-6dc1-407a-b020-b9a6ff20f6f3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\c7346496-1c01-4beb-811b-4837025e5df5.jpg",
+      "PackagePath": "staticwebassets\\images\\c7346496-1c01-4beb-811b-4837025e5df5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\d324b8d0-2841-4459-ab2b-2bd915467262.jpeg",
+      "PackagePath": "staticwebassets\\images\\d324b8d0-2841-4459-ab2b-2bd915467262.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\e0d4fb7d-406b-4559-8176-1ba8e97ad006.jpeg",
+      "PackagePath": "staticwebassets\\images\\e0d4fb7d-406b-4559-8176-1ba8e97ad006.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\e1af5235-e895-4961-95e1-a15c89bf1aa4.jpeg",
+      "PackagePath": "staticwebassets\\images\\e1af5235-e895-4961-95e1-a15c89bf1aa4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\f2164846-e146-4606-aeb1-ba008545ba1a.jpeg",
+      "PackagePath": "staticwebassets\\images\\f2164846-e146-4606-aeb1-ba008545ba1a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\f8c04bac-0ab0-41cc-a2b3-db6f14eb5f49.jpg",
+      "PackagePath": "staticwebassets\\images\\f8c04bac-0ab0-41cc-a2b3-db6f14eb5f49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\IzaMuh.Web\\UIWeb\\wwwroot\\images\\f9da815c-fde1-4295-b9a6-a7a081b00922.jpeg",
+      "PackagePath": "staticwebassets\\images\\f9da815c-fde1-4295-b9a6-a7a081b00922.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UIWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UIWeb.props",
+      "PackagePath": "build\\UIWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UIWeb.props",
+      "PackagePath": "buildMultiTargeting\\UIWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UIWeb.props",
+      "PackagePath": "buildTransitive\\UIWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

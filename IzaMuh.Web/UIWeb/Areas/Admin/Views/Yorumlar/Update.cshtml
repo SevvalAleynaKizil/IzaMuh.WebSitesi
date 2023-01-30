@@ -1,0 +1,44 @@
+﻿<div class="container">
+
+    <form action="/Admin/Yorumlar/Update/@Model.Id" method="post">
+       <input style="display:none;" type="text" name="Name" class="form-control" style="margin-bottom:15px;"
+               value="@Model.Name" hidden />
+        <input  type="text" name="Name" class="form-control" style="margin-bottom:15px;"
+               value="@Model.Name" disabled />
+        <input style="display:none;" type="text" name="Comment" class="form-control" style="margin-bottom:15px;"
+               value="@Model.Comment" hidden />
+        <input  type="text" name="Comment" class="form-control" style="margin-bottom:15px;"
+               value="@Model.Comment" disabled />
+        <input type="text" name="ServiceName" style="margin-bottom:15px;"
+               value="@Model.ServiceName" hidden />
+        <input type="text" name="ServiceId" style="margin-bottom:15px;"
+               value="@Model.ServiceId" hidden />
+
+        <select class="form-control" name="Status">
+            @if (Model.Status == true)
+            {
+                <option value="True">Aktif</option>
+                <option value="False">Pasif</option>
+
+            }
+            else
+            {
+                <option value="False">Pasif</option>
+                <option value="True">Aktif</option>
+            }
+
+        </select>
+
+        <textarea name="Response" class="form-control" style="margin-bottom:10px;">@Model.Response</textarea>
+        <button type="submit" class="form-control btn btn-primary">Güncelle</button>
+
+    </form>
+</div>
+@if (ViewBag.Message != null)
+{
+            <div class="alert alert-success" style="margin-top:15px;">@ViewBag.Message</div>
+}
+@if (ViewBag.Error != null)
+{
+            <div class="alert alert-danger" style="margin-top:15px;">@ViewBag.Error</div>
+}

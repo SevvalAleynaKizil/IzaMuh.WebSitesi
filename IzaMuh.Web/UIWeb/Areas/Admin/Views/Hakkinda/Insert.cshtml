@@ -1,0 +1,18 @@
+﻿@model DataAccess.Models.About
+
+<div class="container">
+    <form action="/Admin/Hakkinda/Insert" method="post" enctype="multipart/form-data">
+     <textarea type="text" class="form-control" style="margin-bottom:10px;height:150px" placeholder="Hakkında Yazisi" asp-for="Details"></textarea> 
+    <button type="submit" class="form-control btn btn-primary">Ekleme Yap</button>
+    </form>
+</div>
+
+@if (ViewBag.Message != null)
+{
+        <div class="alert alert-success" style="margin-top:15px">@ViewBag.Message</div>
+
+}
+@if (ViewBag.Error != null)
+{
+        <div class="alert alert-danger" style="margin-top:15px">@ViewBag.Error</div>
+}

@@ -1,0 +1,259 @@
+﻿@{
+    Layout = null;
+}
+@using DataAccess.Models
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>İza Mühendislik</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="/assets/img/favicon.png" rel="icon">
+    <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="/assets/css/main.css" rel="stylesheet">
+
+    <!-- =======================================================
+    * Template Name: UpConstruction - v1.2.1
+    * Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="header d-flex align-items-center">
+        <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+            <a href="/" class="logo d-flex align-items-center">
+                <!-- Uncomment the line below if you also wish to use an image logo -->
+                <!-- <img src="/assets/img/logo.png" alt=""> -->
+                <h1>İza Mühendislik<span>.</span></h1>
+            </a>
+
+            <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+            <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a href="/" class="active">Anasayfa</a></li>
+                    <li><a href="/#hakkimizda">Hakkımızda</a></li>
+                    <li><a href="/#haberler">Haberler</a></li>
+                    <li><a href="/#hizmetler">Hizmetler</a></li>
+                    <li><a href="/#projects">Fotoğraflar</a></li>
+                    <li><a href="/#iletisim">İletişim</a></li>
+                </ul>
+            </nav><!-- .navbar -->
+
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <div class="breadcrumbs d-flex align-items-center" style="background-image: url('/assets/img/breadcrumbs-bg.jpg');">
+            <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+                
+                <h2>@Model.Name</h2>
+                                
+            </div>
+        </div><!-- End Breadcrumbs -->
+        <!-- ======= Blog Details Section ======= -->
+        <section id="blog" class="blog" >
+            <div class="container" data-aos="fade-up" data-aos-delay="100"  >
+
+                <div class="row g-5" >
+
+                    <div class="col-lg-12">
+
+                        <article class="blog-details">
+
+                            <div class="post-img col-md-12 mx-auto" >
+                                <img src="/images/@Model.Images" alt="" class="img-fluid" >
+                            </div>
+
+                            <h2 class="title">@Model.Name</h2>
+
+                          
+
+                            <div class="content">
+                               
+                                <p>
+                                    @Model.Details
+                                </p>
+
+                           
+
+                        </article><!-- End blog post -->
+
+
+                        <div class="comments">
+
+                            
+                            @if(Model.Comments != null)
+                            {
+                                
+                                    
+                                @foreach (var item in Model.Comments)
+                                {
+                                    @if (item.Status != false)
+                                    {
+
+                                    <div id="comment-2" class="comment">
+                                        <div class="d-flex">
+
+                                            <div>
+                                                <h5><a href="">@item.Name</a></h5>
+
+                                                <p>
+                                                    @item.Comment
+                                                </p>
+                                            </div>
+                                        </div>
+                                            @if (item.Response != "")
+                                            {
+                                                <div id="comment-reply-1" class="comment comment-reply">
+                                                    <div class="d-flex">
+
+                                                        <div>
+                                                            <h5 style="font-family:inherit">Yanıt:</h5><h5 href="">İZA MÜHENDİSLİK</h5>
+
+                                                            <p>
+                                                                @item.Response
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                </div><!-- End comment reply #1-->
+                                            }
+                                        </div><!-- End comment #2-->
+                                    }
+                                }
+                            }
+
+                            <div class="reply-form">
+
+                                <h4>Yorumlar</h4>
+                                <p>Vermiş olduğumuz hizmet ile ilgili sorularınızı buradan sorabilirsiniz* </p>
+
+                                <form action="/Service/Details/@Model.Id" method="post">
+                                    <div class="row">
+                                        <div class="col-md-6 form-group">
+                                            <input name="name" type="text" class="form-control" placeholder="Adınız:">
+                                        </div>
+
+                                    <div class="row">
+                                        <div class="col form-group">
+                                            <textarea name="comment" class="form-control" placeholder="Yorum:"></textarea>
+                                            
+                                                <input name="ServiceName" type="text" class="form-control" value="@Model.Name" hidden>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Gönder</button>
+
+                                </form>
+
+                            </div>
+
+                        </div><!-- End blog comments -->
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Blog Details Section -->
+
+    </main><!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="footer">
+
+        <div class="footer-content position-relative">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6" id="iletisim">
+                        <div class="footer-info">
+                            <h3>İZA MÜHENDİSLİK</h3>
+                            <p>
+                                Türkiye/İstanbul <br>
+
+
+                                <strong>Telefon:</strong>216 523 50 32<br>
+                                <strong>Gsm:</strong> 541 854 99 71<br>
+                                <strong>Email:</strong> iz_muhendislik@hotmail.com<br>
+                                <strong>Adres:</strong> İstiklal Mah. Doğa Sok. NO:17 / D:1 Ümraniye İST.<br>
+
+                            </p>
+                            <div class="social-links d-flex mt-3">
+                                <a href="https://api.whatsapp.com/send/?phone=905418549971&text&type=phone_number&app_absent=0″ target=”_blank”" class="d-flex align-items-center justify-content-center"><i class="bi bi-whatsapp"></i></a>
+                                <a href="https://m.facebook.com/izamuhendislik/" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.google.com/maps/place/%C4%B0ZA+M%C3%9CHEND%C4%B0SL%C4%B0K/$41.0222368,29.0947426,17z/data=!3m1!4b1!4m5!3m4!1s0x14cac8f69f6037a3:0xac6b904859eb2660!8m2!3d41.0222333!4d29.0969194" class="d-flex align-items-center justify-content-center"><i class="bi bi-geo-alt"></i></a>
+
+                            </div>
+                        </div>
+                    </div><!-- End footer info column-->
+
+                    <div class="col-lg-2 col-md-3 footer-links">
+                        <h4>BAĞLANTILAR</h4>
+                        <ul>
+                            <li><a href="/">Anasayfa</a></li>
+                            <li><a href="/#hakkimizda">Hakkında</a></li>
+                            <li><a href="/#hizmetler">Hizmetler</a></li>
+                            <li><a href="/#haberler">Haberler</a></li>
+                            <li><a href="/#projects">Fotoğraflar</a></li>
+                        </ul>
+                    </div><!-- End footer links column-->
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <!-- End Footer -->
+
+    <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <div id="preloader"></div>
+
+    <!-- Vendor JS Files -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/vendor/aos/aos.js"></script>
+    <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="/assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="/assets/js/main.js"></script>
+
+</body>
+
+</html>
